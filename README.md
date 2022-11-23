@@ -25,9 +25,9 @@ complete a lab. Let's take a look at the first test for this lab together:
 
 ```js
 describe('index.js', function () {
-  describe('scuberGreetingForFeet()', function () {
-    it('gives customers a free sample if the ride is less than or equal to 400 feet', function () {
-      expect(scuberGreetingForFeet(199)).to.equal('This one is on me!');
+  customers a free sample if the ride is less than or equal to 400 feet', function () {
+      expect(scuberGreetingForFeet(199)).to.equal('This one is on me!');describe('scuberGreetingForFeet()', function () {
+    it('gives 
     });
 
     // tests continue...
